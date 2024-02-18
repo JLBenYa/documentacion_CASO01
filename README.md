@@ -1,5 +1,4 @@
-# Documentación Chat Buho -!-!
-
+# Documentación Chat Buho 
 Repositorio de documentación de nuestro sistema omnicanal [Chat Buho](https://buho.la/chat/). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
 
 Tener en cuenta la estructura general del contenido que debe tener cada artículo:
@@ -31,7 +30,8 @@ Este comando inicia un servidor de desarrollo local y abre una ventana del naveg
 ### Build
 
 ```
-$ npm build
+// es npm run build , almenos aca en windows 10, ya que usando npm build daba error. 
+$ npm run build
 ```
 Este comando genera contenido estático en el directorio `build` y se puede usar en cualquier hosting. Esta carpeta es ignorado en el repositorio.
 
