@@ -6,7 +6,7 @@ title: Cómo empezar
 
 # ChatBúho
 
-## ¡Bienvenido a la documentación de ChatBúho!
+## ¡Bienvenido a la documentación de ChatBúho - SENATI!
 
 La documentación de ChatBúho es tu **guía completa para centralizar todas las comunicaciones de tu negocio en un solo lugar**. Con esta plataforma, podrás unificar todos tus chats en una sola plataforma, teniendo el control total sobre las interacciones de tus colaboradores con tus clientes.
 
