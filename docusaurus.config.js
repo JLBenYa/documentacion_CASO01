@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://www.senati.edu.pe/conexionsenati/wp-content/uploads/2020/03/89923502_2693208340802583_7939975752282275840_o.jpg',
         },
         items: [
           // {
